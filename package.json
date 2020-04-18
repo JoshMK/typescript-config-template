@@ -1,0 +1,13 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joshua Kirwin",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
